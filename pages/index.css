@@ -116,8 +116,6 @@ line-height: 30px;
     justify-content: center;
     gap: 100px;
     list-style-type: none;
-    max-width: 560;
-    max-height: 315;
  }
 
 .recipes__video-caption{
