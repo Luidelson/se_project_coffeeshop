@@ -2,32 +2,30 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 183px;
- }
+}
 
- .nav__links {
-display: flex;
-list-style-type: none;
-gap: 20px;
-padding: 0;
-margin: 0;
- }
+.nav__links {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
 
- .nav__logo {
-    position:relative;
+.nav__logo {
+    position: relative;
     margin-left: -50px;
     margin-top: 30px;
     max-width: 104px;
     max-height: 39px;
-    
- }
+}
 
- .nav__link{
+.nav__link {
     color: #000;
     text-decoration: none;
     transition: opacity 0.5s;
- }
+}
 
- .nav__link:hover{
+.nav__link:hover {
     opacity: 50%;
-    
- }
+}
